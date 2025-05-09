@@ -31,12 +31,16 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![EMPD EX 4 a](https://github.com/user-attachments/assets/971acfca-6f3b-411d-9479-c5b8167207b8)
+
 
 ### Output:
+![EMPD EX 4b](https://github.com/user-attachments/assets/62940883-f4de-4998-bc52-26efa9fc7cf6)
 
 
-### Name:
-### Register Number:
+
+### Name: Pavithra K
+### Register Number: 212224240112
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
